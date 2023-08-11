@@ -1,4 +1,4 @@
-<h2 align=center>Dr. Jason Chiasson</h2>
+<h2 align=center>Jay☕</h2>
 <h3 align=center>Offensive Cybersecurity Consultant</h3>
 <br>
 <p align="justify">Innovative Ph.D. with Two Decades of Mastery in Offensive Cybersecurity and Malware Development. My journey, marked by an unquenchable curiosity and an insatiable thirst for mastering the art of cyber warfare, has led me to the very forefront of the industry. With a fusion of academic studies and real-world expertise, I have sculpted an exciting career characterized by cutting edge malware development, strategic cyber maneuvers, and an unrelenting commitment to fortifying digital landscapes. I have been orchestrating audacious offensive campaigns that not only expose vulnerabilities but empower organizations with the insights necessary to fortify their environment. My two decades of hands-on experience have been instrumental in curating a comprehensive repertoire of strategies that challenge conventional norms and continuously redefine the boundaries of offensive cybersecurity.</p>
