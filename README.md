@@ -1,9 +1,9 @@
 <h2 align=center>Jay☕</h2>
 <h3 align=center>Offensive Cybersecurity Consultant</h3>
 <br>
-<p align="justify">Innovative Ph.D. with Two Decades of Mastery in Offensive Cybersecurity and Malware Development. My journey, marked by an unquenchable curiosity and an insatiable thirst for mastering the art of cyber warfare, has led me to the very forefront of the industry. I have sculpted an exciting career characterized by malware development, strategic cyber maneuvers, and an unrelenting commitment to fortifying digital landscapes. I have been orchestrating many audacious offensive campaigns that not only expose vulnerabilities but empower organizations with the insights necessary to fortify their environment. My two decades of hands-on experience have been instrumental in curating a comprehensive repertoire of strategies that challenge conventional norms and continuously redefine the boundaries of offensive cybersecurity.</p>
-<br>
+<p align="justify">Innovative consultant with two decades of mastery in Offensive Cybersecurity and Malware Development. My journey, marked by an unquenchable curiosity and an insatiable thirst for mastering the art of cyber warfare, has led me to the very forefront of the industry. I have sculpted an exciting career characterized by malware development, strategic cyber maneuvers, and an unrelenting commitment to fortifying digital landscapes. I have been orchestrating many audacious offensive campaigns that not only expose vulnerabilities but empower organizations with the insights necessary to fortify their environment. My two decades of hands-on experience have been instrumental in curating a comprehensive repertoire of strategies that challenge conventional norms and continuously redefine the boundaries of offensive cybersecurity.
 <p align="justify">
+
 I hold a profound fascination for efficiency-driven software and workflow enhancement. My endeavor is to maximize daily productivity driven by a genuine passion for the field of computer science. Nevertheless, I advocate for a balanced approach between work and personal life, rejecting the notion of relentless grind. Contemporary society often emphasizes the concept of exhaustive efforts and ceaseless toil, neglecting the value of embracing the journey.
 </p>
 <br>
