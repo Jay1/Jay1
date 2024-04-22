@@ -1,3 +1,4 @@
+<p align="center"><img src="https://raw.githubusercontent.com/Jay1/Jay1/fd068c260cf59ab9df72706cda8a7d0b295d5522/resources/hacker-glider_LAVENDER.svg" height="300" width="300"></p>
 <h2 align=center>Jay☕</h2>
 <h3 align=center>Offensive Cybersecurity Consultant</h3>
 <br>
