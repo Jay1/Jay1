@@ -13,26 +13,34 @@ My contributions on GitHub and GitLab tend to be discreetly housed within propri
 
 ---
 
-## Projects I utilize on a daily basis:
+## My personal techstack
 
+[![Gentoo](https://raw.githubusercontent.com/Jay1/Jay1/main/resources/Gentoo.svg)](https://www.gentoo.org/)
+[![Neovim](https://skillicons.dev/icons?i=neovim&theme=dark)](https://github.com/nvim-lua/kickstart.nvim)
 [![Bun](https://skillicons.dev/icons?i=bun&theme=dark)](https://bun.sh/docs)
+[![NextJS](https://skillicons.dev/icons?i=nextjs&theme=dark)](https://nextjs.org/)
+[![Vercel](https://skillicons.dev/icons?i=vercel&theme=dark)](https://vercel.com)
+[![Supabase](https://skillicons.dev/icons?i=supabase&theme=dark)](https://supabase.com/docs)
+[![Regex](https://skillicons.dev/icons?i=regex&theme=dark)](https://regexone.com/)
 [![C](https://skillicons.dev/icons?i=c&theme=dark)](https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170)
 [![Docker](https://skillicons.dev/icons?i=docker&theme=dark)](https://docs.docker.com)
-[![Figma](https://skillicons.dev/icons?i=figma&theme=dark)](https://help.figma.com/hc/en-us)
-[![HTMX](https://skillicons.dev/icons?i=htmx&theme=dark)](https://htmx.org/docs/)
 [![Lua](https://skillicons.dev/icons?i=lua&theme=dark)](https://www.lua.org/docs.html)
-[![Neovim](https://skillicons.dev/icons?i=neovim&theme=dark)](https://github.com/nvim-lua/kickstart.nvim)
+[![Discord](https://skillicons.dev/icons?i=discord&theme=dark)](https://discord.com/)
 [![Obsidian](https://skillicons.dev/icons?i=obsidian&theme=dark)](https://obsidian.md/)
-[![R](https://skillicons.dev/icons?i=r&theme=dark)](https://www.r-project.org/other-docs.html)
-[![RedHat](https://skillicons.dev/icons?i=redhat&theme=dark)](https://access.redhat.com/downloads/)
-[![Regex](https://skillicons.dev/icons?i=regex&theme=dark)](https://regexone.com/)
-[![Rust](https://skillicons.dev/icons?i=rust&theme=dark)](https://www.rust-lang.org/learn)
-[![Supabase](https://skillicons.dev/icons?i=supabase&theme=dark)](https://supabase.com/docs)
-[![Vue.js](https://skillicons.dev/icons?i=vue&theme=dark)](https://vuejs.org/guide/introduction.html)
+[![Terraform](https://skillicons.dev/icons?i=terraform&theme=dark)](https://www.terraform.io/)
+[![OpenStack](https://skillicons.dev/icons?i=openstack&theme=dark)](https://www.openstack.org/)
+
+
 
 ---
 
-## Connect with me:
-
-[![X](https://raw.githubusercontent.com/Jay1/Jay1/main/resources/x-logo.svg)](https://x.com/Jason_Chiasson)
-[![Bluesky](https://raw.githubusercontent.com/Jay1/Jay1/main/resources/bluesky-logo.svg)](https://bsky.app/profile/jay.coffee)
+<h2 align="center">Connect with me:</h2>
+<div align="center">
+  <a href="https://x.com/Jason_Chiasson">
+    <img src="https://raw.githubusercontent.com/Jay1/Jay1/main/resources/x.svg" width="40" alt="X Logo">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://bsky.app/profile/jay.coffee">
+    <img src="https://raw.githubusercontent.com/Jay1/Jay1/main/resources/bsky.svg" width="40" alt="Bluesky Logo">
+  </a>
+</div>
