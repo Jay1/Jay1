@@ -5,13 +5,15 @@
 <h2 align="center">Jay☕</h2>
 <h3 align="center">Offensive Cybersecurity Consultant</h3>
 
- <p align="center"> With over two decades of experience in Offensive Cybersecurity, malware development, and strategic cyber operations, I’ve had the privilege of working on challenging projects that uncover vulnerabilities and help organizations strengthen their defenses. My passion for cybersecurity drives me to continually refine my skills and explore innovative approaches to solving complex problems. </p> 
+ <p align="center"> Consultant with two decades of mastery in Offensive Cybersecurity, malware development & strategic cyber maneuvers. My journey has led me to orchestrate many audacious offensive campaigns that empower organizations in tech, medical science and private aviation around the world. My hands-on experience have been instrumental in curating a comprehensive repertoire of tactics & strategies that challenges the conventional playbook.  </p> 
 
-<p align="center"> I’m deeply interested in tools and workflows that boost efficiency and productivity. My focus is on creating systems that allow me to work smarter, not harder, so I can enjoy more time with the people who matter most—my family. 💗 I love my family and strive to be efficient so I can spend more time with them. </p>
+<p align="center"> I hold a profound fascination for workflow enhancement and my objective is to maximize daily productivity with my bespoke "stack" that I developed over many years of research & iteration with the help of my assistants. That being said, I advocate for a balanced approach between work and personal life - I think our contemporary society often overemphasizes the concept of ceaseless toil, neglecting the fun that resides in the journey itself.  </p>
+
+<p align="center"> 💗 I love my family and strive to be efficient so I can spend more time with them. </p>
 
 
 
-<p align="center"> While most of my work resides in private repositories, I’m excited about contributing more to Open Source projects as I expand my public presence. Sharing my knowledge and collaborating with the community is something I look forward to as part of my journey. </p>
+<p align="center"> My apologies, you will find my contributions on GitHub and Gitlab tend to be discreetly housed within proprietary repositories. I have very limited engagement with open source projects. </p>
 
 ---
 
