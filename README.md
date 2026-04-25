@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Jay1/Jay1/main/resources/hacker-glider_LAVENDER.svg" height="300" width="300">
+  <img src="https://raw.githubusercontent.com/Jay1/Jay1/main/resources/hacker-glider_LAVENDER.png" height="300" width="300">
 </p>
 
 <h2 align="center">Jay☕</h2>
@@ -20,7 +20,7 @@
 <h2 align="center">My Personal Tech Stack</h2>
 <div align="center">
   <a href="https://www.gentoo.org/">
-    <img src="https://raw.githubusercontent.com/Jay1/Jay1/main/resources/Gentoo.svg" width="40" alt="Gentoo Logo">
+    <img src="https://raw.githubusercontent.com/Jay1/Jay1/main/resources/Gentoo.png" width="40" alt="Gentoo Logo">
   </a>
   <a href="https://github.com/nvim-lua/kickstart.nvim">
     <img src="https://skillicons.dev/icons?i=neovim&theme=dark" width="40" alt="Neovim Logo">
@@ -50,7 +50,7 @@
     <img src="https://skillicons.dev/icons?i=lua&theme=dark" width="40" alt="Lua Logo">
   </a>
   <a href="https://openclaw.io/">
-    <img src="https://raw.githubusercontent.com/Jay1/Jay1/main/resources/openclaw.svg" width="40" alt="OpenClaw Logo">
+    <img src="https://raw.githubusercontent.com/Jay1/Jay1/main/resources/openclaw.png" width="40" alt="OpenClaw Logo">
   </a>
   <a href="https://obsidian.md/">
     <img src="https://skillicons.dev/icons?i=obsidian&theme=dark" width="40" alt="Obsidian Logo">
@@ -69,9 +69,5 @@
 <div align="center">
   <a href="https://x.com/Jason_Chiasson">
     <img src="https://raw.githubusercontent.com/Jay1/Jay1/main/resources/x.svg" width="40" alt="X Logo">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://bsky.app/profile/jay.coffee">
-    <img src="https://raw.githubusercontent.com/Jay1/Jay1/main/resources/bsky.svg" width="40" alt="Bluesky Logo">
   </a>
 </div>
