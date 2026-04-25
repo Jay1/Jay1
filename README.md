@@ -40,8 +40,8 @@
   <a href="https://regexone.com/">
     <img src="https://skillicons.dev/icons?i=regex&theme=dark" width="40" alt="Regex Logo">
   </a>
-  <a href="https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170">
-    <img src="https://skillicons.dev/icons?i=c&theme=dark" width="40" alt="C Logo">
+  <a href="https://opencode.ai/">
+    <img src="https://raw.githubusercontent.com/Jay1/Jay1/main/resources/opencode.png" width="40" alt="OpenCode Logo">
   </a>
   <a href="https://docs.docker.com/">
     <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="40" alt="Docker Logo">
