@@ -1,0 +1,20 @@
+# Project-specific
+.brainstorm/
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Windows Zone.Identifier (alternate data streams)
+*:Zone.Identifier
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OpenCode
+.git/opencode
