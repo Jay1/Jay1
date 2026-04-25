@@ -49,7 +49,7 @@
   <a href="https://www.lua.org/docs.html">
     <img src="https://skillicons.dev/icons?i=lua&theme=dark" width="40" alt="Lua Logo">
   </a>
-  <a href="https://openclaw.io/">
+  <a href="https://openclaw.ai/">
     <img src="https://raw.githubusercontent.com/Jay1/Jay1/main/resources/openclaw.png" width="40" alt="OpenClaw Logo">
   </a>
   <a href="https://obsidian.md/">
